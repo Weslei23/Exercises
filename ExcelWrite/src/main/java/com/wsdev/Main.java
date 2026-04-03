@@ -16,11 +16,15 @@ public class Main
         Aluno weslei = new Aluno( "Weslei", 9.4, 9.8 );
         Aluno ana = new Aluno( "Ana", 8.4, 9.3 );
         Aluno julia = new Aluno( "Julia", 7.4, 6.7 );
+        Aluno pedro = new Aluno( "Pedro", 6.7, 5.8 );
+        Aluno luana = new Aluno( "Luana", 3.6, 9.3 );
 
         List<Aluno> alunos = new ArrayList<>();
         alunos.add( weslei );
         alunos.add( ana );
         alunos.add( julia );
+        alunos.add( pedro );
+        alunos.add( luana );
 
         try
         {

@@ -1,0 +1,14 @@
+📝 Exercício 1: Criar uma planilha de alunos
+
+Crie um arquivo Excel com as colunas:
+
+Nome
+Nota 1
+Nota 2
+Média
+
+👉 Regras:
+
+Calcular a média no Java (não no Excel)
+Preencher pelo menos 5 alunos
+Salvar como alunos.xlsx
